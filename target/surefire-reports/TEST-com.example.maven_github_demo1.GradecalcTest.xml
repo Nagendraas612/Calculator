@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Student-A\AppData\Local\Temp\surefire11867509921594210310\surefirebooter-20260924102748789_3.jar C:\Users\Student-A\AppData\Local\Temp\surefire11867509921594210310 2026-09-24T10-27-48_656-jvmRun1 surefire-20260924102748789_1tmp surefire_0-20260924102748789_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Student-A\AppData\Local\Temp\surefire8241792254800540911\surefirebooter-20260924143625154_3.jar C:\Users\Student-A\AppData\Local\Temp\surefire8241792254800540911 2026-09-24T14-36-25_009-jvmRun1 surefire-20260924143625154_1tmp surefire_0-20260924143625154_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Student-A\Desktop\nagendra\maven-github-demo1\target\test-classes;C:\Users\Student-A\Desktop\nagendra\maven-github-demo1\target\classes;C:\Users\Student-A\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\Student-A\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Student-A\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\Student-A\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Student-A\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Student-A\AppData\Local\Temp\surefire11867509921594210310\surefirebooter-20260924102748789_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Student-A\AppData\Local\Temp\surefire8241792254800540911\surefirebooter-20260924143625154_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
@@ -57,7 +57,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testTotal" classname="com.example.maven_github_demo1.GradecalcTest" time="0.012"/>
+  <testcase name="testTotal" classname="com.example.maven_github_demo1.GradecalcTest" time="0.014"/>
   <testcase name="testFail" classname="com.example.maven_github_demo1.GradecalcTest" time="0.001"/>
   <testcase name="testPass" classname="com.example.maven_github_demo1.GradecalcTest" time="0.001"/>
   <testcase name="testAverage" classname="com.example.maven_github_demo1.GradecalcTest" time="0.001"/>
