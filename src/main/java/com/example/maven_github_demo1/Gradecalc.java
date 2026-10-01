@@ -14,7 +14,7 @@ public class Gradecalc {
 	}
 	public static boolean isPass(double average)
 	{
-		return average >=40.0;
+		return average >=32.0;
 	}
 	public static void main(String[] args) {
 		int m1=75,m2=68,m3=82;
